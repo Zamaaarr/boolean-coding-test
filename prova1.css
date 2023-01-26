@@ -1,0 +1,79 @@
+body{
+    background-image: url('/Users/alessandromarangoni/Desktop/test boolean careers/background.jpg');
+    background-size:1440px;
+    }
+ /* qui ho inserito il background */
+    #logo{
+        width: 180px;
+        height:80px;
+        margin-top: 1cm;
+      }
+
+      #titolone{
+        color: springgreen;
+      }
+/* qui logo e titolo che poi ho centrato */
+    
+      #centratutto{
+        text-align: center;
+      }
+
+      /* qui ho creato la box come sfondo  */
+      .boxgrande{
+        width: 25cm;
+        height: 18cm;
+        border-radius: 8px;
+        background-color: rgba(17, 17, 17, 0.8);
+        margin-left: 6cm;
+        margin-top: 1cm;
+        }
+        /* qiu c'e la parte di 'menu' */
+        #boxviola{
+            text-align: center;
+            margin-left: 5cm; 
+            background-color: rgb(70, 24, 196);
+            border: 3cm; 
+            width: 15cm;
+            height: max-content;
+            border-radius: 19px;
+        }
+
+
+        /* da qui in poi i monopattini con la loro carica */
+
+    .monopattini{
+        margin-left: 2cm;
+        margin-top: 0.5cm;
+        color: whitesmoke;
+    }
+
+        .checkbox{
+            display: inline;
+            padding-left: 20px;
+            font-size: x-large;
+            
+        }
+        
+        
+/* ecco le cariche  */
+            #mediobox{
+                background-color: coral;
+                width: 8cm;
+                height: 1cm;
+                border-radius: 8px;
+            }
+        
+            #caricobox{
+            background-color: rgb(62, 175, 14);
+            width: 15cm;
+            height: 1cm;
+            border-radius: 8px;
+            }
+            #scaricobox{
+                background-color: rgb(204, 13, 13);
+                width: 5cm;
+                height: 1cm;
+                border-radius: 8px;
+                }
+                
+
